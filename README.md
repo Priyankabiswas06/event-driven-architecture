@@ -1,4 +1,5 @@
 Event-Driven Architecture
+
 Goal: Build systems that react to events (like a file upload) automatically.
 
 Architecture
